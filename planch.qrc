@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="default">images/icons/default.svg</file>
+        <file alias="default_dark">images/icons/default_dark.svg</file>
+    </qresource>
+</RCC>
